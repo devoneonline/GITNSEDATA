@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Copyright (C) 2009 by IBM. All rights reserved.
+Copyright (C) 2009 Cognos ULC, an IBM Company. All rights reserved.
+Cognos (R) is a trademark of Cognos ULC, (formerly Cognos Incorporated).-->
+<outputDescriptor>
+  <asOfTime>Tue Nov 01 16:55:28 IST 2016</asOfTime>
+  <burstKey/>
+  <defaultName>NSEDAILY</defaultName>
+  <defaultDescription/>
+  <fileName>NSEDAILY-en-us.pdf</fileName>
+  <outputLocale>en-us</outputLocale>
+  <outputFormat>PDF</outputFormat>
+  <reportExecutionTime>Tue Nov 01 16:55:28 IST 2016</reportExecutionTime>
+  <reportId>i5042A78731144F41B28BEB9A4F211E1E</reportId>
+  <reportSearchPath>/content/package[@name='NSEDATA']/report[@name='NSEDAILY']</reportSearchPath>
+  <reportViewSearchPath/>
+  <parameterValues/>
+</outputDescriptor>
